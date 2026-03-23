@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ゴーストアベニュー",
   "base_artist": "Eve",
-  "createdAt": "2026-02-14T15:04:51.802861Z",
+  "createdAt": "2026-03-23T08:37:44.174387Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "Eve",
       "has_synced": false,
       "path": "select/pl_01_ゴーストアベニュー_Eve.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ゴーストアベニュー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/localdb_01_ゴーストアベニュー_Eve.txt",
+      "repo_name": "PysVvOp0jiU"
     }
   ]
 }
